@@ -1,0 +1,29 @@
+#minden{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin-left: 43.5%;
+    margin-top: 12.5%;
+    position: fixed;
+}
+body{
+    background-color: #171717;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+#jv {
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+#gomb {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    border-radius: 1000px;
+    box-shadow: black 10px 10px 10px 10px;
+    margin: auto;
+}
